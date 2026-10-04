@@ -2,6 +2,10 @@
 
 This example calls the [Cycle Trader Listings Scraper](https://apify.com/piotrv1001/cycletrader-listings-scraper) through Apify's Node.js client. It uses an existing Actor; it does not implement a scraper.
 
+![Cycle Trader dataset with motorcycle prices, mileage, dealer names, and listing URLs](./cycletrader_listings_results.png)
+
+The screenshot shows a separate detail-mode run with twelve visible rows. The code below requests a smaller, ten-item listing-only sample.
+
 ## What this example does
 
 - Calls the Actor with one Cycle Trader search URL

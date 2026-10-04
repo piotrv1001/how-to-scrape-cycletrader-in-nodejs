@@ -1,0 +1,22 @@
+[
+  {
+    "id": "EXAMPLE-001",
+    "url": "https://www.cycletrader.com/listing/example-motorcycle-001",
+    "year": 2024,
+    "make": "Honda",
+    "model": "Rebel 500",
+    "title": "2024 Honda Rebel 500",
+    "condition": "Used",
+    "price": 5499
+  },
+  {
+    "id": "EXAMPLE-002",
+    "url": "https://www.cycletrader.com/listing/example-motorcycle-002",
+    "year": 2023,
+    "make": "Honda",
+    "model": "Rebel 500 ABS",
+    "title": "2023 Honda Rebel 500 ABS",
+    "condition": "Used",
+    "price": 5150
+  }
+]
